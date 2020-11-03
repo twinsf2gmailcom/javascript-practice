@@ -1,4 +1,4 @@
-# Javascript for beginners
+# Javascript for beginners - Day 1 - Daily Challenge
 date: 2 Nov 2020
 by: Stephanie Flora
 
