@@ -14,6 +14,16 @@ by: Stephanie Flora
 - [ ] Link your script file externally
 - [ ] Add, commit and push changes to your master branch
 
+## Take Home Challenge
+Using your Daily Challenge repository:
+- [ ] Create a new branch called take-home
+- [ ] Add the following to your script file:
+    - [ ] Single line comment
+    - [ ] Multi-line comment
+    - [ ] Log your name to the console
+- [ ] Log your favorite food to the console
+- [ ] Add, commit, and push your changes to your take-home branch
+
 ## To get Started
 git clone repository
 
